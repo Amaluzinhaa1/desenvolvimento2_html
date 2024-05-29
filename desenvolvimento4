@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conheça outras atrações turísticas!</title>
+</head>
+<body>
+    <header>
+        <span>Recife Antigo</span>
+        <ul>
+            <li>Explore Recife</li>
+            <li>Pacotes</li>
+            <li>Outras Atrações turísticas</li>
+        </ul>
+        <header>
+            <main>
+                <h1>Outras Atrações Turísticas</h1> 
+                <h2>Conheça o Recife Antigo</h2>
+                <p>Assim como o Marco Zero, existem outros pontos turísticos maravilhos que vale
+                    muito a pena conhecer! Separamos algumas opções a seguir, veja:
+                </p>
+                <h3>1. Basílica de Nossa Senhora do Carmo</h3>
+                <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/9a/ae/b1/basilica-de-nossa-senhora.jpg?w=1200&h=1200&s=1" alt="Foto Capela" height="400px">
+                <h3>2.  Praça do Marco Zero e Parque das Esculturas</h3>
+                <img src="https://www.fuiserviajante.com/wp-content/uploads/2017/08/o-que-fazer-no-recife-antigo-6747-1536x1024.jpg" alt="Foto Oficina" height="400px">
+                <h3>3. Museus do Recife Antigo</h3>
+                <img src="https://www.fuiserviajante.com/wp-content/uploads/2017/07/museu-pa%C3%A7o-do-frevo-57.jpg" alt="Foto Praia" height="400px">
+
+            </main>
+            <footer>
+                <ul>
+                    <li>Facebook</li>
+                    <li>Instagram</li>
+                    <li>Tiktok</li>
+                    <li>Youtube</li>
+                </ul>
+            </footer>
+            
+        
+    </header>
+     
+</body>
+</html>
