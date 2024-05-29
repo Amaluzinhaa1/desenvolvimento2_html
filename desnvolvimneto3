@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <titlle>MundoTour</titlle>
+</head>
+<body>
+    <header>
+      <span>RecifeTour</span>
+        <nav>
+            <ul>
+              <li>Home</li>
+              <li>Menu</li>
+              <li>Sobre</li>
+              <li><a href=".pontos_turisticos.html">Pontos Turisticos</a></li>
+            </ul>
+        </nav>
+
+    </header>
+
+<main>
+<h1>Marco Zero</h1>
+<section>
+    <img src"https://th.bing.com/th/id/R.f9cf0542f3500c326a8ef2bd92f92856?rik=AzokCFmZzJSeDg&pid=ImgRaw&r=0&sres=1&sresct=1">
+</section>
+<p>O Marco Zero em Recife é um dos destinos históricos mais importantes do nordeste no país. A região reúne atrações históricas e culturais, centro de artesanato e ótimos restaurantes. Além disso, é o principal local do carnaval de Pernambuco, reunindo música, alegria e muita festa.</p>
+<section>
+ <h2>História sobre o Marco Zero</h2>
+ <p>O espaço surgiu junto à construção da cidade e também é responsável por preservar grande parte da história local. Pela região, é possível apreciar construções da época do Brasil Colonial, assim como estátuas, parques e monumentos históricos.
+ Na mesma praça também está situada a rosa-dos-ventos do Marco Zero. A atração foi anexada à praça na década de 1930, pelo artista pernambucano Cícero Dias. Uma curiosidade é que o marco reúne todas as distâncias oficiais de Pernambuco, dando origem ao termo ‘km 0’ do estado.</p>
+ <blockquote>
+      <section><p><b>Como visitar:</b> há várias atrações no Marco Zero, então é importante reservar pelo menos 1 dia para aproveitar as atividades da região. O ideal é montar um roteiro para organizar todas elas.</section>
+      <section><b>Quando ir:</b> entre os meses de setembro e fevereiro, pois a época oferece um clima agradável e com menor probabilidade de chuva.</section>
+      <section><b>Melhor horário para ir:</b> escolha passear pela região durante a manhã. Neste período o número de visitantes é menor e as temperaturas estão mais amenas.</section>
+      <section><b>Estacionamento:</b> há boas opções de estacionamento nas proximidades do Marco Zero. Você pode estacionar na Praça do Arsenal ou no shopping Paço Alfândega.</section>        
+      <section><b>Estrutura:</b> a região conta com um comércio forte, que reúne excelentes bares, restaurantes e cafeterias. Além disso, o local possui diferentes opções de hospedagens.</p></section>
+ </blockquote>
+ </section>
+</main>
+<footer>
+ <ul>
+     <li>Facebook</li>
+     <li>Instagram</li>
+     <h5>Desenvolvido por [Maria Luiza Fonseca]</h5>
+ </ul>
+</footer>
+</body>
+</html>
